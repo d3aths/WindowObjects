@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: rgb(14, 102, 185);
+    filter: drop-shadow(2px, 2px, 10px white);
+}
+
+button {
+    background-color: darkgray;
+}
